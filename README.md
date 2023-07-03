@@ -1,5 +1,4 @@
-# MatlabElastixWrapper
-Simple wrapper for Elastix and Transformix registration in Matlab
+# Simple wrapper for Elastix and Transformix registration in Matlab
 
 ## Getting started
 

@@ -1,0 +1,22 @@
+Balanced steady-state free precession (bSSFP) Acquisition Parameters
+
+Scanner                 =   Siemens Magnetom Avanto (1.5 Tesla)
+FOV                     =   450 mm x 450 mm
+Voxel Size              =   3.5 mm x 3.5 mm
+Slice Thickness         =   15 mm
+Flip Angle              =   50 degrees
+Acquisition Time (TA)   =   0:49 sec
+Echo Time (TE)          =   0.8 ms
+Repetition Time (TR)    =   1.88 ms
+Measurements            =   210 (First 10 images are removed)
+Pause between meas.     =   0.1 sec
+PAT (GRAPPA)            =   2x with 24 reference lines (integrated)
+Phase Partial Fourier   =   6/8
+Scanner Interpolation   =   Off
+Bandwidth               =   1302 Hz/Px
+Asymmetric Echo         =   Allowed
+Reordering              =   Linear
+RF Pulse Type           =   Fast
+Gradient Mode           =   Fast
+Shim Mode               =   Standard
+Coil Combination        =   Adaptive Combine
