@@ -19,7 +19,7 @@ param = 'par000_mod.txt';
 % https://elastix.lumc.nl/modelzoo/
 
 % For my work cases, creating a mask around the object of interest 
-% (e.g., lungs)improves the registration performance. 
+% (e.g., lungs) improves the registration performance. 
 
 % Prepare mask for elastix. I repeat the mask to match the size of my data.
 % I think the mask needs to be “double” type for elastix to work. But I am not that sure.
@@ -34,7 +34,7 @@ saveParameters = 1;
 % When you run elastix and have the either transform parameters or have 
 % them saved with saveParameters=1, then you can call the transformixReg.
 % This is useful if you want to apply the same registration to different
-% dataset. For example, same dynamic images reconstructed/denoised with 
+% datasets. For example, same dynamic images reconstructed/denoised with 
 % different methods (e.g., GRAPPA vs LORAKS or noisy vs denoised).
 
 % Here I will just add noise to dynamic images, and use the transformation
