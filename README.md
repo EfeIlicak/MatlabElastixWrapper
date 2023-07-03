@@ -9,6 +9,8 @@ Also, it should be accessable in your system path (like in the following screens
 ## Demo file
 A simple demo file is provided, which adds the necessary files to the directory. 
 The demo performs a non-rigid registration of non-contrast-enhanced dynamic lung MRI data. 
+![DemoResult](https://github.com/EfeIlicak/MatlabElastixWrapper/assets/24956226/6463ac3c-1360-430e-9fe9-2e2e7543e2f8)
+
 
 
 
