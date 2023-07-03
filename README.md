@@ -4,6 +4,7 @@
 
 Make sure that Elastix is downloaded and installed (https://github.com/SuperElastix/elastix/releases/). 
 Also, it should be accessable in your system path (like in the following screenshot). 
+![Elastix](https://github.com/EfeIlicak/MatlabElastixWrapper/assets/24956226/75ca7fda-1683-4f64-92dd-dafba937d252)
 
 ## Demo file
 A simple demo file is provided, which adds the necessary files to the directory. 
